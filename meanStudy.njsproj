@@ -44,7 +44,9 @@
     <None Include="vladi - Web Deploy.pubxml" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="config\env\express.ts" />
+    <TypeScriptCompile Include="app\controllers\index.server.controller.ts" />
+    <TypeScriptCompile Include="app\routes\index.server.routes.ts" />
+    <TypeScriptCompile Include="config\express.ts" />
     <TypeScriptCompile Include="server.ts" />
     <TypeScriptCompile Include="typings\body-parser\body-parser.d.ts" />
     <TypeScriptCompile Include="typings\compression\compression.d.ts" />

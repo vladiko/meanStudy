@@ -1,13 +1,19 @@
 ﻿/// <reference path="__server_references.ts" />
-var express = require('express');
-var app = express();
-app.use('/', function (req, res) {
-    res.send('Hello World from express');
-});
-app.listen(3000);
-console.log('Server running at http://localhost:3000/');
-module.exports = app;
+//var express = require('express');
+//var app = express();
+//app.use('/', function (req, res) {
+//    res.send('Hello World from express');
+//});
+//app.listen(3000);
+//console.log('Server running at http://localhost:3000/');
+//module.exports = app;
 
+
+var express = require('./config/express');
+var app = express();
+app.listen(3000);
+module.exports = app;
+console.log('Server running at http://localhost:3000/');
 
 //import http = require('http');
 //var port = process.env.port || 1337
