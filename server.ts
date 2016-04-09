@@ -1,4 +1,4 @@
-﻿/// <reference path="__references.ts" />
+﻿/// <reference path="__server_references.ts" />
 var express = require('express');
 var app = express();
 app.use('/', function (req, res) {

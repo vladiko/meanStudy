@@ -19,6 +19,21 @@
     },
     "express/express.d.ts": {
       "commit": "8d44da84eb10cdcd2f7ea133f289caef817cb2b9"
+    },
+    "morgan/morgan.d.ts": {
+      "commit": "8d44da84eb10cdcd2f7ea133f289caef817cb2b9"
+    },
+    "compression/compression.d.ts": {
+      "commit": "8d44da84eb10cdcd2f7ea133f289caef817cb2b9"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "8d44da84eb10cdcd2f7ea133f289caef817cb2b9"
+    },
+    "method-override/method-override.d.ts": {
+      "commit": "8d44da84eb10cdcd2f7ea133f289caef817cb2b9"
+    },
+    "ejs/ejs.d.ts": {
+      "commit": "8d44da84eb10cdcd2f7ea133f289caef817cb2b9"
     }
   }
 }
