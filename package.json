@@ -1,0 +1,10 @@
+{
+  "name": "meanStudy",
+  "version": "0.0.0",
+  "description": "meanStudy",
+  "main": "server.js",
+  "author": {
+    "name": "Nata",
+    "email": ""
+  }
+}
